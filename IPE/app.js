@@ -9,7 +9,7 @@ function App(){
             price="1000"
             />,
             <P/>
-        </div>
+        </div> 
     );
 }
 export default App;
