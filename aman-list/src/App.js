@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css'; 
-import SC from './eg2.js';
+import I from './eg3.js';
 
 function App() {
   return (
     <div className="App">
-      <SC />
+      <I />
     </div>
   );
 }
